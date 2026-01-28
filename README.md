@@ -4,7 +4,7 @@
 Led the design and execution of a flagship global Sales Compliance Certification program for Google Cloud, addressing inconsistent adoption of deal execution tools (Salesforce, SIMBA, CPQ, DocuSign) and compliance selling principles across Sales and Support teams.
 
 ## Key Results
-* **15,200+** global learners enrolled, with a 94% completion rate and 90% learner satisfaction.
+* **22,000** global learners enrolled, with a 94% completion rate and 90% learner satisfaction.
 * Drove measurable business impact:
   * 17% reduction in deal closure delays (QoQ).
   * 8% drop in concession offerings.
